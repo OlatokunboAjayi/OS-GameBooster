@@ -1,6 +1,6 @@
 # 🚀 OS-GameBooster
-[![Website](https://img.shields.io/badge/Website-Live-brightgreen.svg)](https://tokunboajayi.github.io/OS-GameBooster/)
-![GitHub Action Status](https://github.com/tokunboajayi/OS-GameBooster/actions/workflows/powershell.yml/badge.svg)
+[![Website](https://img.shields.io/badge/Website-Live-brightgreen.svg)](https://olatokunboajayi.github.io/OS-GameBooster/)
+![GitHub Action Status](https://github.com/OlatokunboAjayi/OS-GameBooster/actions/workflows/powershell.yml/badge.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 A powerful, hardware-agnostic terminal-based game booster built entirely in PowerShell. OS-GameBooster automatically tunes system memory, prioritizes CPU/GPU resources, disables background bloatware, and minimizes DPC latency for maximum competitive gaming performance.

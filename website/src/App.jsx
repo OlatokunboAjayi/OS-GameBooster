@@ -33,10 +33,10 @@ function App() {
             A hardware-agnostic terminal utility that automatically tunes system memory, prioritizes CPU/GPU resources, and minimizes DPC latency for maximum competitive gaming performance.
           </p>
           <div className="btn-group">
-            <a href="https://github.com/tokunboajayi/OS-GameBooster/releases" className="btn btn-primary" target="_blank" rel="noreferrer">
+            <a href="https://github.com/OlatokunboAjayi/OS-GameBooster/releases" className="btn btn-primary" target="_blank" rel="noreferrer">
               Download Latest (v8.0)
             </a>
-            <a href="https://github.com/tokunboajayi/OS-GameBooster" className="btn btn-secondary" target="_blank" rel="noreferrer">
+            <a href="https://github.com/OlatokunboAjayi/OS-GameBooster" className="btn btn-secondary" target="_blank" rel="noreferrer">
               View Source on GitHub
             </a>
           </div>
